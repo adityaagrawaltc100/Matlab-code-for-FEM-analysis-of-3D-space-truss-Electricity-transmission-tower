@@ -1,4 +1,4 @@
-% Matlab code for FEM analysis of 3D space truss
+% Matlab code for FEM analysis of 3D space truss electricitytransmission tower
 % Group H
 
 clear all;
